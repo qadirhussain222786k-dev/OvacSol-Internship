@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Zaryab Khan",
+        "roll_number": "BSE231067",
+        "marks": {
+            "English": 80.0,
+            "Science": 60.0,
+            "Bussiness Process Engineering": 85.0,
+            "Maths": 75.0
+        }
+    },
+    {
+        "name": "Ali",
+        "roll_number": "bse231077",
+        "marks": {
+            "Ai": 70.0,
+            "Re-Engineering": 75.0,
+            "Web Engineering": 89.0
+        }
+    },
+    {
+        "name": "siraj",
+        "roll_number": "bse231079",
+        "marks": {
+            "English": 89.0,
+            "Urdu": 55.0,
+            "Biochemistry": 58.0
+        }
+    },
+    {
+        "name": "Qadir Hussain",
+        "roll_number": "bse231068",
+        "marks": {
+            "Ai": 80.0,
+            "Calculus": 89.0,
+            "Web Engineering": 92.0,
+            "Algebra": 85.0,
+            "CCN": 87.0,
+            "Iot": 89.0,
+            "Cloud Computing": 93.0
+        }
+    }
+]
