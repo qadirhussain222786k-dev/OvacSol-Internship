@@ -54,5 +54,5 @@ The project uses the third-party package **tabulate**, which was installed using
 
 ### Conclusion
 
-This project successfully demonstrates the practical implementation of Python fundamentals through a real-world command-line application. It incorporates Object-Oriented Programming, Functions, Loops, File Handling, Exception Handling, Modules, Virtual Environments, Pip, JSON data storage, searching, sorting, and input validation. The project also includes additional features beyond the minimum requirements, making it more user-friendly and suitable for interview demonstrations.
+This project successfully demonstrates the practical implementation of Python fundamentals through a real-world command-line application. It incorporates Object-Oriented Programming, Functions, Loops, File Handling, Exception Handling, Modules, Virtual Environments, Pip, JSON data storage, searching, sorting, and input validation.
 
