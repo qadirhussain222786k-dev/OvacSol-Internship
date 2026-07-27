@@ -3,7 +3,7 @@
 **AI Internship Training Program - Week 1 Project**
 
 **Intern:** Qadir Hussain 
-**Intern Batch:** Week 1 AI Internship Program  
+**Intern Batch:**  2026 Week 1 AI Internship Program  
 **Company:** OvacSol Pvt. Ltd.
 
 ---
