@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Student Record & Grade Management System is a Command Line Interface (CLI) application developed in Python. It allows users to add, update, search, sort, view, and delete student records. The application automatically calculates total marks, average marks, and letter grades while permanently storing data in a JSON file. It also validates user input, prevents duplicate records, and provides a clean table-based interface using the Tabulate library.
 
@@ -16,7 +16,7 @@ This project was developed as part of the Week 1 AI Internship Training Program 
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Add Student
 - Update Student Marks
@@ -37,7 +37,7 @@ This project was developed as part of the Week 1 AI Internship Training Program 
 - Exception Handling
 - Table Display using Tabulate (Fancy Grid)
 
-## ⭐ Bonus Features
+##  Bonus Features
 
 - Search students using partial names (case-insensitive)
 - Sort students by average marks
@@ -47,7 +47,7 @@ This project was developed as part of the Week 1 AI Internship Training Program 
 - Input validation for empty subject names
 - Improved table formatting using `fancy_grid`
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python 3.10
 - JSON
@@ -56,7 +56,7 @@ This project was developed as part of the Week 1 AI Internship Training Program 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 student-grade-management-system/
@@ -75,7 +75,7 @@ student-grade-management-system/
 
 ---
 
-## ⚙ Installation
+##  Installation
 
 ### 1. Clone Repository
 
@@ -111,7 +111,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Running the Project
+##  Running the Project
 
 ```bash
 python main.py
@@ -125,7 +125,7 @@ py main.py
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 ```
 tabulate
@@ -133,7 +133,7 @@ tabulate
 
 ---
 
-## 📄 Sample Student Data
+##  Sample Student Data
 
 ```json
 [
@@ -151,7 +151,7 @@ tabulate
 
 ---
 
-## 📚 Concepts Covered
+##  Concepts Covered
 
 - Variables
 - Data Types
@@ -170,7 +170,7 @@ tabulate
 - Sorting
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Name:** Qadir Hussain
 
